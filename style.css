@@ -30,7 +30,8 @@ header h1{
     background: goldenrod;
     color: black;
 }
-.container{
+.container,
+.container2{
     width: 80%;
     margin: 2rem auto;
     display: flex;
@@ -38,12 +39,9 @@ header h1{
 }
 
 
-#grid{
+.grid{
     width: 25px;
     height: 25px;
     border: 1px solid black;
     background: gray;
 }
-/* #grid:hover{
-    background: red;
-} */
