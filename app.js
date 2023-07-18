@@ -1,4 +1,6 @@
+//creating a parent element constant
 const container = document.querySelector(".container");
+
 
 for (let i = 1; i < 257; i++){
     const grid = document.createElement("div");
